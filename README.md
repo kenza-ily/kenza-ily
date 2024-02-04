@@ -1,4 +1,4 @@
-### Hello hello 👋
+### Welcome to my GitHub page 🙋🏻‍♀️
 
 **I’m a Biomedical Engineer specialising in AI for healthcare applications!**
 
