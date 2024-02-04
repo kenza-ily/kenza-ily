@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello hello 👋
 
 **I’m a Biomedical Engineer specialising in AI for healthcare applications!**
 
