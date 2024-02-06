@@ -6,5 +6,5 @@ Currently, I’m an AI for Health MSc student at *University College London*: my
 
 I graduated from *INSA Lyon* in 2021 and conducted three research projects in health data science and ML in the US, France and Germany. I’ve worked for two years as a Digital Health Consultant at EY in Paris, giving me a 360° view of the digital health landscape in France and Europe.
 
-- 🔍 Find out more on my personnal [website](https://kenza-ily.notion.site)
+- 🔍 Find out more on [my website](https://kenza-ily.notion.site)
 
