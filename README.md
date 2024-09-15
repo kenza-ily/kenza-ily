@@ -1,8 +1,8 @@
 ### Welcome to my GitHub page 🙋🏻‍♀️
 - 👋 Hi, I’m Kenza, **I’m a Biomedical Engineer specialised in AI for healthcare!**
-- 👩🏻‍🎓 I'm an AI for Health MSc Student at UCL
-- 💼 I'm an AI Product Specialist at Vivanti
+- 💼 I'm working as AI Lead at Vivanti
 - 😍 My interests are Healthcare NLP, XAI and multimodality approaches
+- 👩🏻‍🎓 I graduated from the MSc AI for Biomedicine and Healthcare at UCL
 - 🔍 Find out more on [my website](https://kenza-ily.notion.site)!
 
 ### Connect with me 
